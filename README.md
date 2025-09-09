@@ -378,4 +378,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rounak Mishra** - [LinkedIn](https://linkedin.com/in/rounak-mishra)
+**Rounak Mishra** - [LinkedIn](https://linkedin.com/in/rounakmishra)
